@@ -6,22 +6,18 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
 ### Spoken Languages 
-* Arabic
-* French
+* Bangla
 * English
-* Spanish
+* Hindi
 
 ### Languages and Tools
-![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 ![bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 <!--### Developer's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
 ### Software Used
 ![ArchLinux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) 
-![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
 ![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
 ![android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
@@ -29,8 +25,6 @@
 ![Visual Studio Code](
 https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg
 )
-![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg)
-![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
 
 ### Friends & Collaborators & Contributed With
 #### No one I have god only that guided me and Helped me
