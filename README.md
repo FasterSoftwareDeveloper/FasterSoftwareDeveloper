@@ -1,15 +1,8 @@
-
-# ![Logo](bannerss.png)  
-<a href="[https://github.com/syntaxspins](https://github.com/FasterSoftwareDeveloper">
-   <img src="https:" alt="GitHub WidgetBox">
-</a>
-
----
-
 ### 🌐 **Spoken Languages**  
 - 🗣️ Bangla  
 - 🗣️ English  
-- 🗣️ Hindi  
+- 🗣️ Hindi
+- 🗣️ Urdu
 
 ---
 
