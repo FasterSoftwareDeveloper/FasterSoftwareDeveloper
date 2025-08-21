@@ -1,11 +1,4 @@
-### 🌐 **Spoken Languages**  
-- 🗣️ Bangla  
-- 🗣️ English  
-- 🗣️ Hindi
-- 🗣️ Urdu
-
----
-
+### 🌐 **Spoken Languages** 
 ### 🛠️ **Languages and Tools**  
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg) ![Bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)  
 
